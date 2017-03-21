@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+# Yuwei Chen's Website
+My name is Yuwei Chen. I am a senior studying statitstics and economics at University of California, Davis. I am into data science. On this website, I posted a few of my previous projects on different data science topics.
+
+
 You can use the [editor on GitHub](https://github.com/ywcc/ywcc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
